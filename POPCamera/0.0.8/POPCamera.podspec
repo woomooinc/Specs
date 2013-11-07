@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.exclude_files = 'Classes/Exclude'
 
-  s.resources = "Resources/*", "Images"
+  s.resources = "Resources/*", "Images/*"
 
   s.frameworks = 'ImageIO', 'QuartzCore', 'CoreMedia', 'AssetsLibrary', 'CoreImage', 'AVFoundation', 'CoreVideo', 'CoreGraphics'
 
