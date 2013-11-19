@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "POPCamera"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "POPCamera"
 
   s.homepage     = "http://github.com/woomooinc/POP_Camera_Rick"
